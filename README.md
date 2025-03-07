@@ -7,4 +7,4 @@ npm i sfacli
 ```
 2. Below are a list of possible command you can pass into the ```--data``` tag.
 
-```cores```: Returns an estimate of the default amount of parallelism a program should use
+ - ```cores```: Returns an estimate of the default amount of parallelism a program should use
