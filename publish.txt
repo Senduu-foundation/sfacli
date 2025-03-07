@@ -1,0 +1,6 @@
+npm set //registry.npmjs.org/:_authToken=npm_5FPJzhU2BNyuyOElb73LY6PAMNg4No2U7
+YWN
+
+//How to update the readme file
+npm version patch
+npm publish
