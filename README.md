@@ -1,4 +1,4 @@
-![Alt text](logo.png)
+![Alt text](senduu.png)
 
 
 sfacli is a command line tool that provides operating system-related information about your local computer
