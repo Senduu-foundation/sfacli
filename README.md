@@ -2,4 +2,6 @@ sfacli is a command line tool that provides operating system-related information
 
 ## How to use sfacli
 1. First install the sfacli tool, input the below bash command in your terminal
-```npm i sfacli```
+```bash
+npm i sfacli
+```
