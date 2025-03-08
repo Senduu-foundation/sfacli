@@ -9,6 +9,10 @@
   "bin": {
     "sfacli": "index.js"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Senduu-foundation/sfacli.git"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
