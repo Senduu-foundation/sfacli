@@ -13,8 +13,12 @@
     "type": "git",
     "url": "https://github.com/Senduu-foundation/sfacli.git"
   },
+  "bugs": "https://github.com/Senduu-foundation/sfacli/issues",
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Senduu Foundation - Osemudiamhen V. Aimiosior",
+    "email": "osemu.aimiosior@senduufoundation.org"
+  },
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
